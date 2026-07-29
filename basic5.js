@@ -1,0 +1,18 @@
+function display(){
+    console.log("Hello world");
+}
+display();
+
+
+const display1=function (){
+    console.log("welcome");
+
+}
+display1();
+
+
+const add=(a,b)=>{
+    return a+b;
+
+}
+console.log (add(30,40));
