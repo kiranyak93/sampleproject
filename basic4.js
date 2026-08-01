@@ -20,6 +20,11 @@ function square(number){
 }
 console.log(square(5));function sample(){
     let x=10;
+     console.log(x);
+
 }
+   sample(); 
+
+
 
 
