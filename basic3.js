@@ -20,3 +20,4 @@ console.log(employee);
 let id1=Symbol("employee");
 let id2=Symbol("employee");
 console.log(id1===id2);
+
